@@ -1,0 +1,9 @@
+
+DATOS BASE DE DATOS MySQL
+
+Usuario: can
+Contraseña: 12345
+Url:http: //localhost/phpmyadmin/index.php?route=/sql&db=caninos&table=animal&pos=0
+Puerto: 3306
+Base de datos creada: caninos 
+host: localhost
